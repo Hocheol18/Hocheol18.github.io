@@ -4,4 +4,5 @@ const nextConfig = {
     assetPrefix: './',
   };
   
-module.exports = nextConfig;
+  module.exports = nextConfig;
+  
