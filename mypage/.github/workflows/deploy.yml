@@ -22,7 +22,7 @@ jobs:
         run: npm install
         working-directory: ./mypage
 
-      - name: Build and Export
+      - name: Build the project
         run: npm run build
         working-directory: ./mypage
 
